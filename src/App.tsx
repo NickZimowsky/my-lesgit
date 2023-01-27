@@ -19,6 +19,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi consequuntur perferendis.</p>
     </div>
   );
 }
